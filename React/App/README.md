@@ -1,7 +1,6 @@
 # 📚 Library App - Frontend
 
 Aplicación web de una librería desarrollada con **React**.  
-Este proyecto corresponde únicamente al **frontend**, pensado para mostrar y navegar libros en distintas secciones de forma simple y responsiva.
 
 ---
 
@@ -9,16 +8,17 @@ Este proyecto corresponde únicamente al **frontend**, pensado para mostrar y na
 
 - **🔍 Búsqueda por título o autor** (versión mock).  
 - **🖼️ Imágenes de libros** con estilo personalizado.  
-- **📱 Diseño responsivo** con CSS moderno.
+- **📱 Diseño responsivo** con TailwindCSS.
 
 ---
 
 ## 🛠️ Tech Stack (Frontend)
 
-- [React 18](https://reactjs.org/)  
-- [React Router](https://reactrouter.com/)  
-- [Vite](https://vitejs.dev/) para el bundling y dev server.
-- [TailwindCSS]
+- React 18
+- React Router
+- TailwindCSS
+- Axios
+- Vite
 
 ---
 
