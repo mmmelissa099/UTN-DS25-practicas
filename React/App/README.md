@@ -17,8 +17,8 @@ Este proyecto corresponde únicamente al **frontend**, pensado para mostrar y na
 
 - [React 18](https://reactjs.org/)  
 - [React Router](https://reactrouter.com/)  
-- [Vite](https://vitejs.dev/) para el bundling y dev server.  
-- CSS puro (estilos en `estilos.css`).  
+- [Vite](https://vitejs.dev/) para el bundling y dev server.
+- [TailwindCSS]
 
 ---
 
